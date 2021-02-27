@@ -1,0 +1,1 @@
+WEB_SCOCKET = "wss://stream.binance.com:9443/ws/ethusdt@kline_1m"
