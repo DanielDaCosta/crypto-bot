@@ -1,4 +1,4 @@
-# crypto-bot
+# Crypto Bot
 Trading bot using RSI technique for Binance.
 
 # Packages
