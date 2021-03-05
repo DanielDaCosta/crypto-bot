@@ -1,5 +1,5 @@
 # Crypto Bot
-Trading bot using RSI technique for Binance.
+Trading bot using RSI technique for Binance Exchange.
 
 ## Packages
 Run:
