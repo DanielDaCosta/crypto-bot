@@ -1,5 +1,5 @@
 # Crypto Bot
-Trading bot using RSI technique for Binance Exchange. 
+Trading bot using RSI technique for **Binance Exchange**. 
 
 Default crypto used: `ETH`
 
