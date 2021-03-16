@@ -16,7 +16,7 @@ brew install ta-lib
 
 ## Config Variables
 ### API Credentials
-Go to your Binance account on `API Management` and cretae your own Api keys: `API_KEY` and `API_SECRET`
+Go to your Binance account on `API Management` and cretae your own api keys: `API_KEY` and `API_SECRET`
 
 ## References
 - Code created base on a Youtube video: https://www.youtube.com/watch?v=GdlFhF6gjKo&t=2975s
