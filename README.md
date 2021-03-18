@@ -19,6 +19,6 @@ brew install ta-lib
 Go to your Binance account on `API Management` and cretae your own api keys: `API_KEY` and `API_SECRET`
 
 ## References
-- Code created base on a Youtube video: https://www.youtube.com/watch?v=GdlFhF6gjKo&t=2975s
+- Code created based on a Youtube video: https://www.youtube.com/watch?v=GdlFhF6gjKo&t=2975s
 - Original Github code: https://github.com/hackingthemarkets/binance-tutorials
 - https://github.com/binance/binance-spot-api-docs/blob/master/web-socket-streams.md#klinecandlestick-streams
