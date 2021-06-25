@@ -3,7 +3,7 @@ Trading bot using RSI indicator for **Binance Exchange**.
 
 Default crypto used: `ETH`
 
-## Packages
+## Install Packages
 Run:
 ```
 pip install requirements.txt
