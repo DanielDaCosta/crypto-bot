@@ -1,7 +1,7 @@
 # Crypto Bot
 Trading bot using RSI indicator for **Binance Exchange**. 
 
-Default crypto used: `ETH`
+Default crypto used: `ETH` (Ethereum)
 
 ## Install Packages
 Run:
